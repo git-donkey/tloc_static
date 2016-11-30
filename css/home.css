@@ -67,10 +67,10 @@ html{
     position: absolute;
     background: #a83279;
     background-repeat: repeat-x;
-    background-image: -webkit-linear-gradient(-45deg,#a83279,#d38312);
-    background-image: linear-gradient(-45deg,#a83279,#d38312);
-    opacity: .7;
-    filter: alpha(opacity=70);
+    background-image: -webkit-linear-gradient(-45deg,#324ba8,#ffffff);
+    background-image: linear-gradient(-45deg,#324ba8,#ffffff);
+    opacity: .8;
+    filter: alpha(opacity=80);
 }
 .intro-navigate>p{
 	text-align: center;
